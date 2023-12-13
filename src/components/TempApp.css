@@ -65,3 +65,13 @@ body > span {
   color: aliceblue;
   letter-spacing: 1px;
 }
+
+.error {
+  color: #db2828;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 4rem;
+  font-weight: 700;
+  letter-spacing: 4px;
+  font-style: italic;
+}
